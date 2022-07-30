@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Look at the Final Deployed Website: https://fun-chat-acc4a.web.app/rooms/5bAwY64pWDVWij9oYYU3
+Note: You can log in to it using your Google account. And send messages, but don't send spam messages because I will be able to see who sent what, from my end.
+
+Some pics of the final app: 
+![image](https://user-images.githubusercontent.com/70360391/181864958-44c44d67-6dc1-416e-b800-3d8f8271454e.png)
+![image](https://user-images.githubusercontent.com/70360391/181864960-2d917c0d-c5f8-4f88-85db-e4a7edf58702.png)
+![image](https://user-images.githubusercontent.com/70360391/181864969-0ee91374-4b41-471f-b88f-f8564aae5cbf.png)
+![image](https://user-images.githubusercontent.com/70360391/181864962-15a5b958-90f3-436d-a011-8e545c7b6552.png)
+
 
 ## Available Scripts
 
