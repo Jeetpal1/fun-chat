@@ -4,7 +4,8 @@ Note: You can log in to it using your Google account. And send messages, but don
 Some pics of the final app: 
 ![image](https://user-images.githubusercontent.com/70360391/181864958-44c44d67-6dc1-416e-b800-3d8f8271454e.png)
 ![image](https://user-images.githubusercontent.com/70360391/181864969-0ee91374-4b41-471f-b88f-f8564aae5cbf.png)
-![image](https://user-images.githubusercontent.com/70360391/181864962-15a5b958-90f3-436d-a011-8e545c7b6552.png)
+![image](https://user-images.githubusercontent.com/70360391/181865051-d6eea332-50e8-433d-89fa-c36aef20a02e.png)
+
 
 
 ## Available Scripts
