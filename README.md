@@ -1,5 +1,5 @@
 <h2>Look at the Final Deployed Website:<h2> 
-  <h1>https://fun-chat-acc4a.web.app/rooms/5bAwY64pWDVWij9oYYU3</h1>
+  <h3>https://fun-chat-acc4a.web.app/rooms/5bAwY64pWDVWij9oYYU3</h3>
 
 Note: You can log in to it using your Google account. And send messages, but don't send spam messages because I will be able to see who sent what, from my end.
 
