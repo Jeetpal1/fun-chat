@@ -1,7 +1,7 @@
 <h3>Look at the Final Deployed Website:  https://fun-chat-acc4a.web.app/rooms/5bAwY64pWDVWij9oYYU3</h3> 
 Click the above link to the website
 
-Note: You can log in to it using your Google account. And send messages, but don't send spam messages because I will be able to see who sent what, from my end.
+Note: You can log in to it using your Google account. And send messages, but don't send spam messages because I will be able to see who is sending the messages😉, from my end.
 
 Some pics of the final app: 
 ![image](https://user-images.githubusercontent.com/70360391/181864958-44c44d67-6dc1-416e-b800-3d8f8271454e.png)
