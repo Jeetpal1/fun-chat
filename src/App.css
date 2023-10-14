@@ -1,0 +1,41 @@
+.app {
+  background-color: #d5d5d5;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.app_body {
+  display: flex;
+  background-color: #ebebe9;
+  margin-top: -30px;
+  width: 90vw;
+  height: 90vh;
+  box-shadow: -0.5px 3px 18px -3px rgba(0, 0, 0, 0.8);
+}
+
+.warning__message {
+  display: none;
+  position: absolute;
+  z-index: 10;
+  top: 30vw;
+  left: 8vw;
+  right: 8vw;
+}
+
+@media screen and (max-width: 623px) and (orientation: portrait) {
+  .warning__message {
+    display: block;
+  }
+  .app_body {
+    display: none;
+  }
+}
+@media screen and (max-width: 623px) and (orientation: landscape) {
+  .warning__message {
+    display: none;
+  }
+  .app_body {
+    display: flex;
+  }
+}

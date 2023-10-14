@@ -1,0 +1,63 @@
+.sidebar{
+    flex: 0.35;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar__search{
+    display: flex;
+    align-items: center;
+    background-color: #f6f6f6;
+    height: 2rem;
+    padding: 0.7rem;
+}
+
+.sidebar__searchContainer{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    height: 2rem;
+    border-radius: 0.6rem;
+}
+
+.sidebar__searchContainer > input{
+    border: none;
+    margin-left: 0.6rem;
+}
+
+/* MuiSvgIcon-root is class name of the material-ui icon */
+.sidebar__searchContainer > .MuiSvgIcon-root{
+    color: gray;
+}
+
+.sidebar__header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border-right: 1px solid lightgray;
+}
+
+.sidebar__headerRight{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 10vw;
+}
+
+.sidebar__headerRight > .MuiSvgIcon-root{
+    margin-right: 2vw;
+    font-size: 2rem !important;
+}
+
+.sidebar__chats{
+    background-color: white;
+    flex: 1;
+    overflow: auto;
+}
+
+.sidebar__title{
+    margin-left: 0.4rem;
+    font-weight: 900;
+    /* text-decoration: solid; */
+}
